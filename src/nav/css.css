@@ -1,0 +1,36 @@
+.boton
+{
+    background-color: #9000a3;
+    color: white;
+    border: transparent;
+}
+.boton:hover
+{
+    background-color: white;
+    color: #9000a3;
+}
+li:hover
+{
+    background-color: #9000a3;
+    color: white;
+}
+td
+{
+    color: white;
+}
+tr
+{
+    color: white;
+}
+th
+{
+    color: white;
+}
+thead
+{
+    color: white;
+}
+table
+{
+    color: white;
+}

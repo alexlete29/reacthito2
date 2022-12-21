@@ -1,0 +1,47 @@
+iframe
+{
+    border:0;
+}
+
+.boton
+{
+    background-color: #9000a3;
+    color: white;
+}
+.boton:hover
+{
+    background-color: white;
+    color: #9000a3;
+}
+
+.map
+{
+  margin-top: 20px;
+  text-align: center;
+}
+
+td
+{
+    color: white;
+}
+tr
+{
+    color: white;
+}
+th
+{
+    color: white;
+}
+thead
+{
+    color: white;
+}
+table
+{
+    color: white;
+}
+
+.colorsection
+        {
+          color: white;
+        }

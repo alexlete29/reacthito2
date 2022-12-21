@@ -1,0 +1,10 @@
+.fondotexto
+{
+  color: white;
+}
+.fondo{
+    background-image: url(./tom.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }

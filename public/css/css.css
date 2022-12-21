@@ -1,0 +1,78 @@
+        .footer
+        {
+            background-color: #9000a3;
+            color: white;
+        }
+
+        .boton
+        {
+            background-color: #9000a3;
+            color: white;
+        }
+        .boton:hover
+        {
+            background-color: white;
+            color: #9000a3;
+        }
+
+        h3
+        {
+          color: white;
+        }
+
+
+
+        .fondo{
+          background-image: url(img/tom.jpg);
+          background-size: cover;
+          background-repeat:no-repeat;
+          background-position: center center;
+        }
+
+        .colorsection
+        {
+          color: white;
+        }
+
+        li:hover
+        {
+          background-color: #9000a3;
+          color: white;
+        }
+        td
+        {
+          color: white;
+        }
+        tr
+        {
+          color: white;
+        }
+        th
+        {
+          color: white;
+        }
+        thead
+        {
+          color: white;
+        }
+        table
+        {
+          color: white;
+        }
+        body
+        {
+          background-image: url(img/fondo.jpg);
+          background-size: cover;
+          background-repeat:no-repeat;
+          background-position: center center;
+        }
+        .map
+        {
+          margin-top: 20px;
+          text-align: center;
+        }
+
+        .fondotexto
+        {
+          color: white;
+        }
